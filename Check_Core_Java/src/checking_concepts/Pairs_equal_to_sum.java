@@ -1,6 +1,6 @@
 package checking_concepts;
 
-public class Second_largest_in_array {
+public class Pairs_equal_to_sum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
